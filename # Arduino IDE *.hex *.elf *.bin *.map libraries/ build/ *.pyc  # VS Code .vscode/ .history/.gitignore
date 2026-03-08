@@ -1,0 +1,16 @@
+# Arduino IDE
+*.hex
+*.elf
+*.bin
+*.map
+libraries/
+build/
+*.pyc
+
+# VS Code
+.vscode/
+.history/
+
+# OS files
+Thumbs.db
+Desktop.ini
